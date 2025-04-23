@@ -32,3 +32,4 @@ Implements basic mathematical operations with JavaScript.
 ![Screenshot Description](https://github.com/anshika1510/Level-1-Task-2/blob/main/Screenshot%20(131).png)
 ![Screenshot Description](path/to/screenshot.png)
 ![Screenshot Description](https://github.com/anshika1510/Level-1-Task-2/blob/main/Screenshot%20(132).png)
+![Screenshot Description](path/to/screenshot.png)
